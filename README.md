@@ -36,21 +36,6 @@ This application can also be adapted for similar use cases, such as managing pro
 
 ---
 
-## 📸 Screenshots
-### Login Page  
-![login](img/login.png)  
-
-### Filtering and Sorting Functions  
-![filter-and-sort](img/filter-and-sort.png)  
-
-### CRUD Features using Bootstrap Modals  
-![crud](img/crud.png)  
-
-### Admin Settings Page  
-![settings](img/settings.png)  
-
----
-
 ## ⚙️ How To Run
 1. Install a virtual server such as **XAMPP** on your PC.  
 2. Start **Apache** and **MySQL** in XAMPP.  
