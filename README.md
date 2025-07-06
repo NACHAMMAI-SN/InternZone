@@ -13,7 +13,7 @@ This application can also be adapted for similar use cases, such as managing pro
 
 ---
 
-## 🚀 Features
+##  Features
 - Login Page  
 - Dashboard  
 - Programs (CRUD Features)  
@@ -27,7 +27,7 @@ This application can also be adapted for similar use cases, such as managing pro
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - **Frontend:** HTML, CSS, JavaScript, JQuery, Bootstrap  
 - **Backend:** PHP  
 - **Database:** MySQL  
@@ -36,7 +36,7 @@ This application can also be adapted for similar use cases, such as managing pro
 
 ---
 
-## ⚙️ How To Run
+##  How To Run
 1. Install a virtual server such as **XAMPP** on your PC.  
 2. Start **Apache** and **MySQL** in XAMPP.  
 3. Download and extract the project folder.  
@@ -53,18 +53,18 @@ This application can also be adapted for similar use cases, such as managing pro
 
 ---
 
-## 🔑 Admin Access
+##  Admin Access
 - **Email:** admin123@jg-corporation.com  
 - **Password:** admin123  
 
 ---
 
-## 📖 About
+##  About
 The **InternZone** system helps organizations manage intern progress and task assignments efficiently with an intuitive web interface.  
 
 ---
 
-## 📂 Repository Information
+##  Repository Information
 - **Languages:**  
   - PHP – 91.5%  
   - CSS – 6.9%  
